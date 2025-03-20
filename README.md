@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Given Manyike  
+# 👋 Hello, I'm Given Ngobeni  
 Welcome to my GitHub! I'm an MSc Data Science (Research) student with a strong background in applied mathematics, statistics, and machine learning. My research focuses on **Explainable AI in Financial and Healthcare Insurance Fraud Detection**.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/given-manyike-115663229/)  
